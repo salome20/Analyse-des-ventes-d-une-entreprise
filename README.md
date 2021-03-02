@@ -4,9 +4,9 @@ Il s'agit d'un projet réaliser dans le cadre de la formation "Data Analyst" d'O
 
 Ressources utilisées :
 
-• Le fichier "transactions" regroupant les données sur les ventes 
-• Le fichier "customers" contenant la liste des clients 
-• Le fichier "products" contenant la liste des produits
+##### • Le fichier "transactions" regroupant les données sur les ventes 
+##### • Le fichier "customers" contenant la liste des clients 
+##### • Le fichier "products" contenant la liste des produits
 
 Les missions du projet sont :
 
@@ -26,14 +26,14 @@ Les catégories de produits achetés.
 
 Le dossier contient :
 
-• Un notebook contenant le script de nettoyage des données appelé "P4\_01\_Nettoyage Données"
-• Un notebook contenant le script d'analyse des données appelé "P4\_02\_Analyse de données" 
-• L'ensemble des graphiques au format jpg • Le fichier README
+##### • Un notebook contenant le script de nettoyage des données appelé "P4\_01\_Nettoyage Données"
+##### • Un notebook contenant le script d'analyse des données appelé "P4\_02\_Analyse de données" 
+##### • L'ensemble des graphiques au format jpg • Le fichier README
 
 Le projet permet d'acquérir les compétences suivantes :
 
-• Décrire un jeu de données par la statistique descriptive 
-• Maîtriser les concepts statistiques fondamentaux (ANOVA, Chi-2, Coefficient de Pearson, Coefficient de détermination R²...) 
-• Nettoyer un jeu de données
+##### • Décrire un jeu de données par la statistique descriptive 
+##### • Maîtriser les concepts statistiques fondamentaux (ANOVA, Chi-2, Coefficient de Pearson, Coefficient de détermination R²...) 
+##### • Nettoyer un jeu de données
 
 Il faut dans un premier temps lancer le script de nettoyage de données avant de lancer le script d'analyse afin d'avoir des fichiers propres.
